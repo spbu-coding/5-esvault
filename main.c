@@ -9,6 +9,7 @@ void input() {
 void other() {
     printf("**************Secret function**************\n");
     fflush(stdout);
+    exit(0);
 }
 
 int main() {
