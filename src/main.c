@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void input() {
-    char buffer[5];
+    char buffer[5]
     gets(buffer);
     fflush(stdout);
 }
